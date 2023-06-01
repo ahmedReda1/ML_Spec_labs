@@ -1,0 +1,12 @@
+Models to run 
+1- Linear regression model
+2- supervised classification
+
+
+
+
+
+
+Libs:
+1- sklearn
+2- plot
